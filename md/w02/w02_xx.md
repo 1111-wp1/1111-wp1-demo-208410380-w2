@@ -17,3 +17,7 @@
 ### w02-P5: copy w02 files to demo/w02_booklist
 
 ![w02-p5.png](w02-p5.png)
+
+### w02-P6: All logs
+
+![w02-p6.png](w02-p6.png)
